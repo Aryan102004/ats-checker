@@ -1,0 +1,15 @@
+# Ignore environment variables (API keys)
+.env
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore generated PDF reports
+ATS_Report.pdf
